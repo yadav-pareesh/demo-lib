@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sw?
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Package lock
+# (Keep package-lock.json if you're locking versions)
+# package-lock.json
+
+# Coverage (if using testing)
+coverage/
+
+# Optional: Storybook static files
+storybook-static/
